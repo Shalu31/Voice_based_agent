@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Pradhan Mantri Awas Yojana",
+    "min_age": 18,
+    "max_income": 300000,
+    "benefit": "घर बनाने के लिए आर्थिक सहायता"
+  },
+  {
+    "name": "Ayushman Bharat Yojana",
+    "min_age": 0,
+    "max_income": 500000,
+    "benefit": "5 लाख तक का मुफ्त स्वास्थ्य बीमा"
+  },
+  {
+    "name": "PM Kisan Samman Nidhi",
+    "min_age": 18,
+    "max_income": 200000,
+    "benefit": "किसानों को सालाना 6000 रुपये"
+  }
+]
